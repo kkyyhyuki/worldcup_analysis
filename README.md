@@ -6,7 +6,7 @@ Proyek ini berfokus pada proses **Data Cleaning**, **Exploratory Data Analysis (
 
 ## 📊 Tautan Penting (Links)
 * **Dataset Asli (Kaggle):** [FIFA World Cup 2026 Player Performance Dataset](https://www.kaggle.com/datasets/rauffauzanrambe/fifa-world-cup-2026-player-performance-dataset)
-* **Dashboard Visualisasi (Tableau):** *[Tautan Dashboard Tableau di sini (Menyusul)]*
+* **Dashboard Visualisasi (Tableau):** *[Tautan Dashboard Tableau di sini ([Menyusul](https://public.tableau.com/views/WorldCupAnalysisDummyData/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))]*
 
 ---
 
